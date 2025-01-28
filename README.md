@@ -5,7 +5,7 @@
 - 📜 I'm currently a Solana, Solidity, Smart Contract developer. 💪
 - 👀 Interested in Web Development and Blockchain. 🤩
 - 🏃‍♂️ Moving to fancinating Blockchain world.🌐
-
+ 
 # 
 <table align="center">
   <tr>

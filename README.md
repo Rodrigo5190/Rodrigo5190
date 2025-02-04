@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻🌐 Frontend && Backend | Blockchain Developer 🌐🕵️‍♀️ &nbsp;</div>
+# <div align="center">👨‍💻🌐 Fullstack | Blockchain Developer 🌐🕵️‍♀️ &nbsp;</div>
  
 - 👋 Hello, I’m @Rodrigo5190 🥷
 - ❤️ I love Coding and Debuging 👨‍💻
